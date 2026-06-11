@@ -1,0 +1,40 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" fill="#F4F7F5"/>
+  <rect x="56" y="52" width="1088" height="616" rx="28" fill="#FCFEFC" stroke="#CDD7D0" stroke-width="2"/>
+  <text x="96" y="122" fill="#1E2E27" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="700">Debrief</text>
+  <text x="96" y="160" fill="#5C6E64" font-family="'Helvetica Neue', Arial, sans-serif" font-size="22">Continuity runtime for AI-assisted software work</text>
+  <rect x="94" y="232" width="244" height="122" rx="22" fill="#E7F1EB" stroke="#6C9B81" stroke-width="2"/>
+  <text x="148" y="278" fill="#1E4330" font-family="'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700">Runtime State</text>
+  <text x="132" y="314" fill="#486A58" font-family="'Helvetica Neue', Arial, sans-serif" font-size="17">Durable orchestration truth</text>
+  <text x="127" y="338" fill="#486A58" font-family="'Helvetica Neue', Arial, sans-serif" font-size="17">survives session boundaries</text>
+  <rect x="404" y="232" width="188" height="122" rx="22" fill="#F8EFE1" stroke="#BE9A63" stroke-width="2"/>
+  <text x="432" y="278" fill="#533D1C" font-family="'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700">Workflow</text>
+  <text x="439" y="314" fill="#7A6030" font-family="'Helvetica Neue', Arial, sans-serif" font-size="17">Steps, tasks,</text>
+  <text x="436" y="338" fill="#7A6030" font-family="'Helvetica Neue', Arial, sans-serif" font-size="17">resume progress</text>
+  <rect x="658" y="232" width="202" height="122" rx="22" fill="#EAF0F8" stroke="#6F89B1" stroke-width="2"/>
+  <text x="692" y="278" fill="#284062" font-family="'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700">Artifacts</text>
+  <text x="688" y="314" fill="#516A8A" font-family="'Helvetica Neue', Arial, sans-serif" font-size="17">Published outputs</text>
+  <text x="695" y="338" fill="#516A8A" font-family="'Helvetica Neue', Arial, sans-serif" font-size="17">with lineage</text>
+  <rect x="926" y="232" width="180" height="122" rx="22" fill="#F9E8EA" stroke="#BA7484" stroke-width="2"/>
+  <text x="950" y="278" fill="#5A2833" font-family="'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700">Resume</text>
+  <text x="962" y="314" fill="#834654" font-family="'Helvetica Neue', Arial, sans-serif" font-size="17">Explicit boundary</text>
+  <text x="963" y="338" fill="#834654" font-family="'Helvetica Neue', Arial, sans-serif" font-size="17">for safe handoff</text>
+  <path d="M338 293H404" stroke="#7B8B82" stroke-width="3" stroke-linecap="round"/>
+  <path d="M592 293H658" stroke="#7B8B82" stroke-width="3" stroke-linecap="round"/>
+  <path d="M860 293H926" stroke="#7B8B82" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1016 384C1016 474 880 538 696 538H338C214 538 128 508 112 450" stroke="#8EA698" stroke-width="3" stroke-linecap="round"/>
+  <path d="M112 450L102 466" stroke="#8EA698" stroke-width="3" stroke-linecap="round"/>
+  <path d="M112 450L128 458" stroke="#8EA698" stroke-width="3" stroke-linecap="round"/>
+  <rect x="178" y="480" width="264" height="100" rx="20" fill="#F2F6F3" stroke="#9DAEA4" stroke-width="2"/>
+  <text x="224" y="520" fill="#30463C" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700">Session Handoff</text>
+  <text x="218" y="550" fill="#566B61" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">The next operator or tool</text>
+  <text x="204" y="570" fill="#566B61" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">orients from state, not memory</text>
+  <rect x="496" y="480" width="234" height="100" rx="20" fill="#FBF3E5" stroke="#C6A15A" stroke-width="2"/>
+  <text x="537" y="520" fill="#5A431A" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700">Failure State</text>
+  <text x="533" y="550" fill="#7C6332" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">Stops are recorded as</text>
+  <text x="525" y="570" fill="#7C6332" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">runtime truth, not omission</text>
+  <rect x="784" y="480" width="250" height="100" rx="20" fill="#EAF1F4" stroke="#7295A6" stroke-width="2"/>
+  <text x="825" y="520" fill="#28495B" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700">Continuity Loop</text>
+  <text x="814" y="550" fill="#4B6B7A" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">Artifacts and progression</text>
+  <text x="820" y="570" fill="#4B6B7A" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">make work resumable</text>
+</svg>

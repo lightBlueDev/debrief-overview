@@ -9,6 +9,8 @@ Debrief is developed within the broader AI Work Systems private workspace. This 
 
 > Private implementation repository. This public repository is a documentation-first technical overview of the runtime model, workflow framing, and current implementation direction.
 
+![Debrief overview diagram](assets/continuity-runtime.svg)
+
 ## Why This Project Exists
 
 AI-assisted software work breaks down when continuity depends on memory.
@@ -104,6 +106,7 @@ This overview repository is organized to make the runtime legible without exposi
 - `docs/artifact-lineage.md`: how artifacts become trustworthy and usable over time
 - `docs/continuity-and-handoffs.md`: continuity across sessions, operators, and agents
 - `docs/workspace-relationships.md`: relationship to the surrounding private workspace
+- `docs/public-positioning.md`: concise public-facing positioning and shareable summary copy
 - `docs/status.md`: current scope, maturity, and limitations
 - `examples/`: sanitized examples of run and artifact surfaces
 
