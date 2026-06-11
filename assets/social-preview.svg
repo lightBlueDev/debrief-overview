@@ -1,0 +1,63 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" fill="#F4F7F5"/>
+  <rect x="36" y="36" width="1208" height="568" rx="30" fill="#FCFEFC" stroke="#CDD7D0" stroke-width="2"/>
+  <circle cx="1038" cy="106" r="206" fill="url(#deb-glow)" opacity="0.55"/>
+  <circle cx="162" cy="548" r="208" fill="url(#deb-glow-2)" opacity="0.28"/>
+
+  <text x="92" y="126" fill="#1E2E27" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700">Debrief</text>
+  <text x="92" y="170" fill="#5C6E64" font-family="'Helvetica Neue', Arial, sans-serif" font-size="28">Continuity runtime for AI-assisted software work</text>
+
+  <text x="92" y="252" fill="#23372E" font-family="'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700">Durable orchestration state.</text>
+  <text x="92" y="296" fill="#23372E" font-family="'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700">Explicit resume boundaries.</text>
+  <text x="92" y="340" fill="#23372E" font-family="'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700">Artifact lineage over memory.</text>
+
+  <text x="92" y="408" fill="#617167" font-family="'Helvetica Neue', Arial, sans-serif" font-size="22">A runtime model for supervised AI-assisted work that</text>
+  <text x="92" y="438" fill="#617167" font-family="'Helvetica Neue', Arial, sans-serif" font-size="22">stays coherent across sessions, tools, and handoffs.</text>
+
+  <rect x="92" y="500" width="168" height="44" rx="22" fill="#E7F1EB" stroke="#6C9B81" stroke-width="1.5"/>
+  <text x="176" y="528" text-anchor="middle" fill="#315547" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700">Runtime State</text>
+  <rect x="276" y="500" width="168" height="44" rx="22" fill="#EAF0F8" stroke="#6F89B1" stroke-width="1.5"/>
+  <text x="360" y="528" text-anchor="middle" fill="#3E5980" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700">Artifact Lineage</text>
+  <rect x="460" y="500" width="190" height="44" rx="22" fill="#F8EFE1" stroke="#BE9A63" stroke-width="1.5"/>
+  <text x="555" y="528" text-anchor="middle" fill="#6E5327" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700">Resume Boundaries</text>
+
+  <rect x="742" y="142" width="196" height="92" rx="20" fill="#E7F1EB" stroke="#6C9B81" stroke-width="2"/>
+  <text x="840" y="180" text-anchor="middle" fill="#234333" font-family="'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700">Runtime State</text>
+  <text x="840" y="210" text-anchor="middle" fill="#4D6A5D" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15">durable orchestration truth</text>
+
+  <rect x="972" y="142" width="170" height="92" rx="20" fill="#F8EFE1" stroke="#BE9A63" stroke-width="2"/>
+  <text x="1057" y="180" text-anchor="middle" fill="#5F451B" font-family="'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700">Workflow</text>
+  <text x="1057" y="210" text-anchor="middle" fill="#806231" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15">steps and progression</text>
+
+  <rect x="792" y="292" width="188" height="92" rx="20" fill="#EAF0F8" stroke="#6F89B1" stroke-width="2"/>
+  <text x="886" y="330" text-anchor="middle" fill="#284062" font-family="'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700">Artifacts</text>
+  <text x="886" y="360" text-anchor="middle" fill="#566F90" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15">published with lineage</text>
+
+  <rect x="1016" y="292" width="160" height="92" rx="20" fill="#F9E8EA" stroke="#BA7484" stroke-width="2"/>
+  <text x="1096" y="330" text-anchor="middle" fill="#5A2833" font-family="'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700">Resume</text>
+  <text x="1096" y="360" text-anchor="middle" fill="#864B58" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15">safe handoff point</text>
+
+  <rect x="868" y="438" width="228" height="90" rx="20" fill="#F2F6F3" stroke="#9DAEA4" stroke-width="2"/>
+  <text x="982" y="474" text-anchor="middle" fill="#30463C" font-family="'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700">Continuity Loop</text>
+  <text x="982" y="504" text-anchor="middle" fill="#5A6E65" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15">state, artifacts, and progression</text>
+  <text x="982" y="524" text-anchor="middle" fill="#5A6E65" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15">make work resumable</text>
+
+  <path d="M938 188H972" stroke="#84978D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1057 234V262C1057 280 1043 292 1020 292H980" stroke="#84978D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M980 338H1016" stroke="#84978D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1096 384V410C1096 428 1082 438 1062 438" stroke="#84978D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M868 482H804C774 482 756 461 756 435V188H742" stroke="#84978D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M742 188L758 199" stroke="#84978D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M742 188L760 185" stroke="#84978D" stroke-width="3" stroke-linecap="round"/>
+
+  <defs>
+    <radialGradient id="deb-glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1038 106) rotate(90) scale(206)">
+      <stop stop-color="#D6E3DA"/>
+      <stop offset="1" stop-color="#D6E3DA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="deb-glow-2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(162 548) rotate(90) scale(208)">
+      <stop stop-color="#DCE7E0"/>
+      <stop offset="1" stop-color="#DCE7E0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
