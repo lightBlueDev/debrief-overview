@@ -1,13 +1,21 @@
 # Debrief
 ## Continuity Runtime for AI-Assisted Software Work
 
-Debrief is a stateful runtime for supervised AI-assisted software work.
+Debrief is a continuity runtime for AI-assisted software work.
 
-Its purpose is to preserve durable orchestration truth across sessions, workflows, tools, and handoffs. It is not a prompt wrapper, not a governance engine, and not a generic swarm framework. It is a runtime model for keeping work coherent over time.
+Its purpose is to preserve durable orchestration truth across sessions, workflows, tools, and handoffs. It is not a prompt wrapper, not a governance engine, and not a generic swarm framework. It is a runtime model for keeping AI-assisted work coherent over time.
 
 Debrief is developed within the broader AI Work Systems private workspace. This public repository presents Debrief as the public-facing identity for the continuity-runtime portion of that work, while acknowledging the surrounding context where it helps explain architectural boundaries.
 
 > Private implementation repository. This public repository is a documentation-first technical overview of the runtime model, workflow framing, and current implementation direction.
+
+## At A Glance
+
+- Category: stateful runtime for supervised AI-assisted engineering work
+- Core problem: work becomes fragile when continuity depends on chat history or operator memory
+- Distinctive idea: orchestration truth should live in durable runtime state, not be reconstructed after the fact
+- Current maturity: continuity-runtime architecture being implemented through narrow, honest slices
+- Best for: recruiters, technical evaluators, and teams building resumable AI-assisted workflows
 
 ![Debrief overview diagram](assets/continuity-runtime.svg)
 
